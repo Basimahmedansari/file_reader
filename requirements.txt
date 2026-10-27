@@ -1,0 +1,15 @@
+
+streamlit
+google-genai
+pypdf
+scikit-learn
+numpy
+python-dotenv
+pillow
+pytesseract
+pymupdf
+python-docx
+openpyxl
+xlrd
+python-pptx
+pandas
