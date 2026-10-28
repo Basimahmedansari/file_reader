@@ -23,7 +23,7 @@ if not api_key:
 client = genai.Client(api_key=api_key)
 
 TEXT_MODEL = os.getenv(
-    "GEMINI_TEXT_MODEL", "gemini-2.5-flash"
+    "GEMINI_TEXT_MODEL", "gemini-3.8-flash"
 )
 VISION_MODEL = os.getenv(
     "GEMINI_VISION_MODEL", TEXT_MODEL
